@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  WalletViewController.swift
 //  Tabbed App
 //
 //  Created by ADMIN on 3/6/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class WalletViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,5 +1,5 @@
 //
-//  ThirdViewController.swift
+//  HelpViewController.swift
 //  Tabbed App
 //
 //  Created by ADMIN on 3/6/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ThirdViewController: UIViewController {
+class HelpViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
